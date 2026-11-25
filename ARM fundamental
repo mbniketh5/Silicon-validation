@@ -1,0 +1,29 @@
+ARM- advance risc  machine
+-arm processor
+-feature
+-application
+-architecture overview /block diagram
+
+what is ARM?
+advance risc mechine 32 bit Risc processor
+-first risc microprocessor for commercial use
+-used in portable device due to low power consumption 
+RISC- reduce instruction set computer (More memory)
+CISC - complex instruction  set computer(less memory)
+
+version- ARMv1, v2 v2a, v3 -- ARMv2a--> cashe memory
+
+2 architure -non vanumann , harvard
+
+ARM processor features
+a load -store architeture 
+opcode \ destination\ source1\ source2
+3 address instruction format
+  ADD R1 R2,R3 ->ADD opcode(oprend)  R1-destion address R2,R3--source address
+.........................
+load store architecture 
+->LDR R0,[R1]   ADD R0,R1,R2
+load -store instruction access the memory
+
+
+
